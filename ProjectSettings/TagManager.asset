@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Anchor
+  - Plantable1
+  - Plantable2
+  - Plantable3
+  - Plantable4
+  - Plantable5
+  - Plantable6
+  - Plantable7
+  - Plantable8
+  - Hole1
+  - Hole2
+  - Hole3
+  - Hole4
+  - Hole5
+  - Hole6
+  - Hole7
+  - Hole8
+  - Pile1
+  - Pile2
+  - Pile3
+  - Pile4
+  - Pile5
+  - Pile6
+  - Pile7
+  - Pile8
+  - Pile
+  - Plant
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Plantable
+  - Water
+  - UI
+  - Pile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
